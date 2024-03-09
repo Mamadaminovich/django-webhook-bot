@@ -1,0 +1,14 @@
+ishlatib login qilish
+ngrok config add-authtoken 2dOsP4UmOTD5hAXmgU0sDVPhmhg_4CKuhosEo9F1SgaycM71S
+
+ishga tushirish
+ngrok http 8000
+
+chiqqan silkani views.py ga qo'yish
+Misol uchun:
+URL = 'https://example.ngrok-free.app/getpost/' 
+
+
+
+
+
